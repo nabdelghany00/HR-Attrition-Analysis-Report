@@ -18,6 +18,6 @@ The dashboard also includes visualizations for:
 - **Active Employees by OverTime:** A donut chart showing the percentage of employees working overtime.
 - **Active Employees by Job Role and Performance Rating:** A table showing the number of employees in each job role across different performance ratings.
 
-  <img width="589" alt="Employees-Report" src="https://github.com/user-attachments/assets/d618118a-7037-45b0-ab75-26720d610d13" />
+  <img width="591" alt="Employees-Report" src="https://github.com/user-attachments/assets/ea209a5d-545f-43f6-bac5-d0c85d75f0c7" />
 
 This dashboard offers valuable insights into employee demographics, income distribution, attrition rates, and performance, enabling data-driven decision-making for HR management.
